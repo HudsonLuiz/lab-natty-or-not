@@ -1,10 +1,10 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 Conteúdo criado para o desafio da formação "Fundamentos de IA da DIO". 
 
-# IA na Prática: Aprenda a Utilizar o ChatGPT para Aumentar sua Produtividade no Trabalho
+# IA na Prática: Aprenda a Utilizar o ChatGPT para aumentar sua produtividade no trabalho
 
 ## 📒 Descrição
-Foi criado um pequeno artigo com informações sobre como potêncializar a eficiência no trabalho usando IA como um assistente. 
+Foi criado um pequeno artigo com informações sobre como potêncializar a eficiência no trabalho de analise de dados usando IA como um assistente. 
 
 ## 🤖 Tecnologias Utilizadas
 O texto foi gerado utilizando apenas o ChatGPT no modelo GPT-4o.
