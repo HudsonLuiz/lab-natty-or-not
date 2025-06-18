@@ -4,7 +4,7 @@ Conteúdo criado para o desafio da formação "Fundamentos de IA da DIO".
 # IA na Prática: Aprenda a Utilizar o ChatGPT para aumentar sua produtividade no trabalho
 
 ## 📒 Descrição
-Foi criado um pequeno artigo com informações sobre como potêncializar a eficiência no trabalho de analise de dados usando IA como um assistente. 
+Foi criado um artigo conciso com insights sobre como aumentar a eficiência no trabalho com análise de dados utilizando Inteligência Artificial como assistente. A proposta é apresentar um conteúdo com tom humano e próximo da realidade, escrito sob a perspectiva de um profissional sênior com anos de experiência na área.
 
 ## 🤖 Tecnologias Utilizadas
 O texto foi gerado utilizando apenas o ChatGPT no modelo GPT-4o.
